@@ -1,0 +1,29 @@
+PS D:\New Project (27-Oct-2024) - Copy\translate> pip list
+Package                       Version
+----------------------------- -------
+asgiref                       3.8.1 ok
+Django                        5.1 updated
+django-cors-headers           4.4.0 required
+django-environ                0.11.2 required
+djangorestframework           3.15.2 ok
+djangorestframework-simplejwt 5.3.1 required
+pillow                        10.4.0 required
+pip                           24.2 ok
+PyJWT                         2.9.0 required
+sqlparse                      0.5.1 ok
+tzdata                        2024.1 updated
+PS D:\New Project (27-Oct-2024) - Copy\translate>
+
+
+[notice] A new release of pip is available: 24.2 -> 24.3.1
+[notice] To update, run: python.exe -m pip install --upgrade pip
+(env) PS D:\Translation Project\django-web-app> pip list
+Package             Version
+------------------- -------
+asgiref             3.8.1
+Django              5.1.2
+djangorestframework 3.15.2
+pip                 24.2
+sqlparse            0.5.1
+tzdata              2024.2
+(env) PS D:\Translation Project\django-web-app>
